@@ -21,7 +21,7 @@ void display_phantom_info() {
     printf("\n");
     printf("  Phantom - Ferramenta de Quebra de Senhas\n");
     printf("  ---------------------------------------\n");
-    printf("  Desenvolvido por Manus\n");
+    printf("  Desenvolvido por Goetia\n");
     printf("\n");
 }
 
